@@ -9,5 +9,4 @@ volatility3 sample memory images
 git clone https://github.com/Hemmak/volatility3memory.git
 cd volatility3memory
 chmod +x image-unzip.sh
-clear ; ./image-unzip.sh
 ```
