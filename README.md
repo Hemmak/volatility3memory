@@ -6,7 +6,7 @@ volatility3 sample memory images
 ## Clone the repo and run the script
 
 ```bash
-git clone https://github.com/vaishnavucv/volatility3memory.git
+git clone https://github.com/Hemmak/volatility3memory.git
 cd volatility3memory
 chmod +x image-unzip.sh
 clear ; ./image-unzip.sh
